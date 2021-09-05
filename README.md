@@ -34,6 +34,10 @@
 - Query Builder
 - ORM (Object Relational Mapper)
 
+### 💻 Modelagem do Banco de Dados
+
+<img src="https://github.com/gabriel-nt/ignite-nodejs-database-queries/blob/main/src/assets/diagram.png" />
+
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
