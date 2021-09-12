@@ -66,6 +66,7 @@ $ yarn test
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NodeJS
+- TS
 - Express
 - Jest
 
